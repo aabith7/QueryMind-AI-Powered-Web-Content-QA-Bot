@@ -1,8 +1,7 @@
 streamlit
 langchain
 faiss-cpu
-python-dotenv
 huggingface-hub
+python-dotenv
 transformers
 torch==2.0.1
-requests
