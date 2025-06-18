@@ -55,8 +55,12 @@ python-dotenv
 
 mistralai or required credentials for ChatMistralAI
 
+
+
 📷 Screenshots
 Coming soon...
+
+
 
 
 🙌 Acknowledgements
@@ -67,6 +71,8 @@ Mistral AI
 FAISS
 
 HuggingFace Embeddings
+
+
 
 
 
