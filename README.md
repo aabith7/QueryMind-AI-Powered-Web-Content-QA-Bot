@@ -58,7 +58,8 @@ mistralai or required credentials for ChatMistralAI
 
 
 📷 Screenshots
-Coming soon...
+![image](https://github.com/user-attachments/assets/b8405ff2-96fb-4888-9fa7-4a8d8f6175db)
+
 
 
 
