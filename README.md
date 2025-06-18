@@ -37,6 +37,7 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_or_mistral_api_key
 streamlit run app.py
 \
+---
 
 🛠 Requirements
 Make sure you have the following installed:
@@ -55,13 +56,13 @@ python-dotenv
 
 mistralai or required credentials for ChatMistralAI
 
-
+---
 
 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/b8405ff2-96fb-4888-9fa7-4a8d8f6175db)
 
 
-
+---
 
 
 🙌 Acknowledgements
@@ -79,5 +80,4 @@ HuggingFace Embeddings
 
 ---
 
-If you'd like, I can also generate a `requirements.txt` and a basic `.gitignore` file for you. Let me know!
 
