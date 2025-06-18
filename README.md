@@ -31,7 +31,6 @@ QueryMind is a powerful Streamlit application that lets you query information fr
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/yourusername/querymind.git
 cd querymind
 pip install -r requirements.txt
