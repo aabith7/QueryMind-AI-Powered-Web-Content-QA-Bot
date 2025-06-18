@@ -1,7 +1,7 @@
-streamlit
-langchain
-faiss-cpu
-huggingface-hub
-python-dotenv
-transformers
+streamlit==1.32.2
+langchain==0.1.14
+faiss-cpu==1.7.4
+huggingface-hub==0.20.3
+python-dotenv==1.0.1
+transformers==4.39.3
 torch==2.0.1
